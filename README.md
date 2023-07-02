@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MaxTheTurtle0
 - 👀 I’m interested in programmning and chess.
 - 🌱 I’m currently learning Python, Rust and JavaScript.
-- 📫 How to reach me: Discord: Max the turtle #8191 E-Mail: m.andrei.antonescu@gmail.com
+- 📫 How to reach me: Discord: maxtheturtle0 E-Mail: m.andrei.antonescu@gmail.com
