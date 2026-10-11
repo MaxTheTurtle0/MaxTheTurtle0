@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @MaxTheTurtle0
-- 👀 I’m interested in programmning and chess.
-- 🌱 I’m currently learning Rust and working on my own interpreter mostly following the book "Writing An Interpreter In Go" by Thorsten Ball
-- 📫 How to reach me:
-  - Discord: maxtheturtle0
-  - E-Mail: m.andrei.antonescu@gmail.com
+https://www.youtube.com/watch?v=eBGIQ7ZuuiU
